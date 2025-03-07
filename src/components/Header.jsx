@@ -4,7 +4,8 @@ import HighlightIcon from "@mui/icons-material/Highlight";
 function Header() {
   return (
     <header>
-      <h1>Keeper</h1>
+      <h1>Keeper Notes</h1>
+      <p>The Best place to store your notes</p>
     </header>
   );
 }
