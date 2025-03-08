@@ -5,7 +5,7 @@
 This app is build using react and Material UI. 
 
 # Website Link
-[https://wczr4v.csb.app/](https://keep-notes-zeta-seven.vercel.app/)
+https://keep-notes-zeta-seven.vercel.app
 
 <img width="907" alt="image" src="https://github.com/user-attachments/assets/b1b0e1cb-6578-49cf-a46c-8d45b77e9492" />
 
